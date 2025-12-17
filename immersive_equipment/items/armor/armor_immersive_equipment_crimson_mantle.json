@@ -1,0 +1,100 @@
+{
+	"item_key": "armor_immersive_equipment_crimson_mantle",
+	"item_level": "7",
+	"genus": "m",
+	"value": "250",
+	"loot_chance": ".2",
+	"lang_name": "armor_immersive_equipment_crimson_mantle_name",
+	"lang_desc": "armor_immersive_equipment_crimson_mantle_desc",
+	"armor_type": "armor",
+	"is_unique": false, 
+	"defense": {
+		"physical": "8",
+		"fire": "0",
+		"ice": "0",
+		"holy": "0",
+		"dark": "0.2"
+	},
+	"prefix_chance": "0.1",
+	"suffix_chance": "0.1",
+	"hide_hair": false,
+	"asset_icon": "spr_immersive_equipment_armor_crimson_mantle_icon",
+	"mods": [{
+			"name": "add_status_bonus_hp",
+			"values": {
+				"from": 10,
+				"to": 20
+			}
+		}
+	],
+	"mods_random_data": {
+		"random_item_mods_source_key": "armor_mods_default_1",
+		"min": 0,
+		"max": 2
+	},
+	"animations": {
+		"no_weapon": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge",
+			"backstep": "spr_immersive_equipment_armor_crimson_mantle_backstep"
+		},
+		"sword": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_sword",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		},
+		"rapier": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_rapier",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		},
+		"greatsword": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_greatsword",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		},
+		"staff": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_staff",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		},
+		"spear": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_spear",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		},
+		"bow": {
+			"idle": "spr_immersive_equipment_armor_crimson_mantle_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mantle_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mantle_atk_bow",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mantle_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mantle_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mantle_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mantle_dodge"
+		}
+	}
+}

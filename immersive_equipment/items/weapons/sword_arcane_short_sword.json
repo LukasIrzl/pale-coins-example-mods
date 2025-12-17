@@ -1,0 +1,58 @@
+{
+	"item_key": "sword_arcane_short_sword",
+	"item_level": "8",
+	"genus": "n",
+	"value": "160",
+	"loot_chance": "0.4",
+	"lang_name": "sword_arcane_short_sword_name",
+	"lang_desc": "sword_arcane_short_sword_desc",
+	"weapon_type": "sword",
+	"requirements": {
+		"VIT": 0,
+		"END": 0,
+		"MAG": 0,
+		"STR": 3,
+		"DEX": 0,
+		"INT": 5,
+		"LCK": 0
+	},
+	"damage_scaling": {
+		"STR": 0.05,
+		"DEX": 0,
+		"INT": 0.1,
+		"LCK": 0
+	},
+	"is_unique": false,
+	"prefix_chance": "0.1",
+	"suffix_chance": "0.1",
+	"asset_icon": "spr_immersive_equipment_weapon_attack_short_sword_icon",
+	"animations": {
+		"idle": "spr_immersive_equipment_weapon_attack_short_sword_idle",
+		"move": "spr_immersive_equipment_weapon_attack_short_sword_move",
+		"attack": "spr_immersive_equipment_weapon_attack_short_sword_attack"
+	},
+	"animations_special": {
+		"block_shield": "spr_immersive_equipment_weapon_attack_short_sword_block"
+	},
+	"attack": {
+		"skill_key": "skill_melee_sword",
+		"skill_override": {
+			"skill_properties_damage": {
+				"damage_physical": 10,
+				"damage_fire": 1,
+				"damage_ice": 1,
+				"damage_holy": 1,
+				"damage_dark": 1
+			}
+		}
+	},
+	"skills": [],
+	"mods": [{
+			"name": "passive.parry"
+		}
+	],
+	"sockets": {
+		"min": 0,
+		"max": 2,
+	}
+}

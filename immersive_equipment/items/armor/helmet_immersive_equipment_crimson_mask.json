@@ -1,0 +1,86 @@
+{
+	"item_key": "helmet_immersive_equipment_crimson_mask",
+	"item_level": "7",
+	"genus": "f",
+	"value": "180",
+	"loot_chance": ".2",
+	"lang_name": "helmet_immersive_equipment_crimson_mask_name",
+	"lang_desc": "helmet_immersive_equipment_crimson_mask_desc",
+	"armor_type": "helmet",
+	"defense": {
+		"physical": "4",
+		"fire": "0",
+		"ice": "0",
+		"holy": "0",
+		"dark": "0.20"
+	},
+	"prefix_chance": ".1",
+	"suffix_chance": ".1",
+	"hide_hair": true,
+	"asset_icon": "spr_immersive_equipment_armor_crimson_mask_icon",
+	"animations": {
+		"no_weapon": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge",
+			"backstep": "spr_immersive_equipment_armor_crimson_mask_backstep"
+		},
+		"sword": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_sword",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		},
+		"rapier": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_rapier",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		},
+		"greatsword": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_greatsword",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		},
+		"staff": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_staff",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		},
+		"spear": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_spear",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		},
+		"bow": {
+			"idle": "spr_immersive_equipment_armor_crimson_mask_idle",
+			"move": "spr_immersive_equipment_armor_crimson_mask_move",
+			"attack": "spr_immersive_equipment_armor_crimson_mask_atk_bow",
+			"skill_cast_default": "spr_immersive_equipment_armor_crimson_mask_cast_default",
+			"skill_cast_throw": "spr_immersive_equipment_armor_crimson_mask_cast_throw",
+			"death": "spr_immersive_equipment_armor_crimson_mask_death",
+			"dodge": "spr_immersive_equipment_armor_crimson_mask_dodge"
+		}
+	}
+}

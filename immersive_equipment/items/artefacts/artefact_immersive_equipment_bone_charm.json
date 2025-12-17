@@ -1,0 +1,56 @@
+{
+	"item_key": "artefact_immersive_equipment_bone_charm",
+	"item_level": "3",
+	"genus": "m",
+	"value": "100",
+	"loot_chance": "0.1",
+	"lang_name": "artefact_immersive_equipment_bone_charm_name",
+	"lang_desc": "artefact_immersive_equipment_bone_charm_desc",
+	"is_unique": false,
+	"prefix_chance": "0.1",
+	"suffix_chance": "0.1",
+	"asset_icon": "spr_immersive_equipment_artefact_bone_charm_icon",
+	"mods_random": [{
+			"name": "add_status_bonus_MAG",
+			"values": {
+				"from": 1,
+				"to": 2
+			}
+		},{
+			"name": "add_status_bonus_mana",
+			"values": {
+				"from": 1,
+				"to": 5
+			}
+		},{
+			"name": "add_status_bonus_mana",
+			"values": {
+				"from": 1,
+				"to": 5
+			}
+		}, {
+			"name": "add_status_bonus_hp",
+			"values": {
+				"from": 1,
+				"to": 5
+			}
+		}, {
+			"name": "add_summon_damage_percent",
+			"values": {
+				"from": 0.05,
+				"to": 0.10
+			}
+		}, {
+			"name": "add_summon_time",
+			"values": {
+				"from": 2,
+				"to": 5
+			}
+		}
+	],
+	"mods_random_data": {
+		"min": 1,
+		"max": 2
+	},
+	"skills": []
+}

@@ -1,0 +1,56 @@
+[
+	{
+		"key": 			"spr_immersive_equipment_armor_crimson_mask_#filename#",
+		"files": 		[
+			"armor/helmet_crimson_mask/idle.png",
+			"armor/helmet_crimson_mask/move.png",
+			"armor/helmet_crimson_mask/death.png",
+			"armor/helmet_crimson_mask/dodge.png",
+			"armor/helmet_crimson_mask/backstep.png",
+			"armor/helmet_crimson_mask/atk_bow.png",
+			"armor/helmet_crimson_mask/atk_greatsword.png",
+			"armor/helmet_crimson_mask/atk_rapier.png",
+			"armor/helmet_crimson_mask/atk_spear.png",
+			"armor/helmet_crimson_mask/atk_staff.png",
+			"armor/helmet_crimson_mask/atk_sword.png",
+			"armor/helmet_crimson_mask/cast_default.png",
+			"armor/helmet_crimson_mask/cast_throw.png"
+		],
+		"imgnums":		[
+			6, 6, 5, 4, 3, 9, 11, 5, 8, 8, 6, 6, 7
+		],
+		"xorig":		24,
+		"yorig":		36
+	},
+	{
+		"key": 			"spr_immersive_equipment_armor_crimson_mask_icon",
+		"file": 		"armor/helmet_crimson_mask/icon.png"
+	},
+	{
+		"key": 			"spr_immersive_equipment_armor_crimson_mantle_#filename#",
+		"files": 		[
+			"armor/armor_crimson_mantle/idle.png",
+			"armor/armor_crimson_mantle/move.png",
+			"armor/armor_crimson_mantle/death.png",
+			"armor/armor_crimson_mantle/dodge.png",
+			"armor/armor_crimson_mantle/backstep.png",
+			"armor/armor_crimson_mantle/atk_bow.png",
+			"armor/armor_crimson_mantle/atk_greatsword.png",
+			"armor/armor_crimson_mantle/atk_rapier.png",
+			"armor/armor_crimson_mantle/atk_spear.png",
+			"armor/armor_crimson_mantle/atk_staff.png",
+			"armor/armor_crimson_mantle/atk_sword.png",
+			"armor/armor_crimson_mantle/cast_default.png",
+			"armor/armor_crimson_mantle/cast_throw.png"
+		],
+		"imgnums":		[
+			6, 6, 5, 4, 3, 9, 11, 5, 8, 8, 6, 6, 7
+		],
+		"xorig":		24,
+		"yorig":		36
+	},
+	{
+		"key": 			"spr_immersive_equipment_armor_crimson_mantle_icon",
+		"file": 		"armor/armor_crimson_mantle/icon.png"
+	}
+]

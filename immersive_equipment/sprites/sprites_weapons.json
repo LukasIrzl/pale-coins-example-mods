@@ -1,0 +1,61 @@
+[
+	{
+		"key": 			"spr_immersive_equipment_weapon_hunter_bow_attack",
+		"file": 		"weapons/hunter_bow/atk_strip9.png",
+		"imgnum":		9,
+		"removeback":	0,
+		"smooth":		0,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_hunter_bow_idle",
+		"file": 		"weapons/hunter_bow/idle_strip6.png",
+		"imgnum":		6,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_hunter_bow_move",
+		"file": 		"weapons/hunter_bow/move_strip6.png",
+		"imgnum":		6,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_hunter_bow_icon",
+		"file": 		"weapons/hunter_bow/icon.png"
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_attack_short_sword_attack",
+		"file": 		"weapons/arcane_shortsword/attack.png",
+		"imgnum":		6,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_attack_short_sword_idle",
+		"file": 		"weapons/arcane_shortsword/idle.png",
+		"imgnum":		6,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_attack_short_sword_move",
+		"file": 		"weapons/arcane_shortsword/move.png",
+		"imgnum":		6,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_attack_short_sword_block",
+		"file": 		"weapons/arcane_shortsword/block.png",
+		"imgnum":		1,
+		"xorig":		32,
+		"yorig":		44,
+	},
+	{
+		"key": 			"spr_immersive_equipment_weapon_attack_short_sword_icon",
+		"file": 		"weapons/arcane_shortsword/icon.png"
+	}
+]

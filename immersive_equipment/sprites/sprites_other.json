@@ -1,0 +1,9 @@
+[
+	{
+		"key": 			"spr_immersive_equipment_artefact_bone_charm_icon",
+		"file": 		"other/artefcat_bone_charm_icon.png"
+	}, {
+		"key": 			"spr_immersive_equipment_misc_ring_silver_icon",
+		"file": 		"other/misc_ring_silver.png"
+	}
+]

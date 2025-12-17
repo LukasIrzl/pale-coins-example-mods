@@ -1,0 +1,10 @@
+{
+	"item_key": "misc_immersive_equipment_misc_ring_silver",
+	"item_level": "0",
+	"genus": "f",
+	"value": "150",
+	"loot_chance": "0.05",
+	"lang_name": "misc_immersive_equipment_misc_ring_silver_name",
+	"lang_desc": "misc_immersive_equipment_misc_ring_silver_desc",
+	"asset_icon": "spr_immersive_equipment_misc_ring_silver_icon"
+}

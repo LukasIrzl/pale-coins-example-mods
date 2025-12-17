@@ -1,0 +1,52 @@
+{
+	"item_key": "bow_hunter_bow",
+	"item_level": "8",
+	"genus": "m",
+	"value": "150",
+	"loot_chance": ".4",
+	"lang_name": "bow_hunter_bow_name",
+	"lang_desc": "bow_hunter_bow_desc",
+	"weapon_type": "bow",
+	"requirements": {
+		"VIT": 0,
+		"END": 0,
+		"MAG": 0,
+		"STR": 0,
+		"DEX": 8,
+		"INT": 0,
+		"LCK": 0
+	},
+	"damage_scaling": {
+		"STR": 0,
+		"DEX": 0.5,
+		"INT": 0,
+		"LCK": 0
+	},
+	"is_unique": false,
+	"prefix_chance": "0.1",
+	"suffix_chance": "0.1",
+	"asset_icon": "spr_immersive_equipment_weapon_hunter_bow_icon",
+	"animations": {
+		"idle": "spr_immersive_equipment_weapon_hunter_bow_idle",
+		"move": "spr_immersive_equipment_weapon_hunter_bow_move",
+		"attack": "spr_immersive_equipment_weapon_hunter_bow_attack"
+	},
+	"attack": {
+		"skill_key": "skill_missile_arrow",
+		"skill_override": {
+			"skill_properties_damage": {
+				"damage_physical": 12
+			},
+			"skill_properties": {
+				"cast_object_assset": "obj_missile_arrow"
+			}
+		}
+	},
+	"skills": [
+		{"skill_key": "skill_missile_fast_arrows"}
+	],
+	"sockets": {
+		"min": 0,
+		"max": 1
+	}
+}
